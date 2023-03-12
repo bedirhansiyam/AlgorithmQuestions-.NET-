@@ -1,4 +1,4 @@
-# Sample Algortihm Question (.NET)
+# Sample Algorithm Question (.NET)
 
 ## 1. Question
 In a console application, the user enters a positive number (n). Then the user enters n positive numbers. Print the even numbers that the user has entered to the console.
