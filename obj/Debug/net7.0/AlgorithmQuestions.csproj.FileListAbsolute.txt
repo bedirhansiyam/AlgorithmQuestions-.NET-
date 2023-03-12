@@ -1,0 +1,15 @@
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\AlgorithmQuestions\bin\Debug\net7.0\AlgorithmQuestions.exe
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\AlgorithmQuestions\bin\Debug\net7.0\AlgorithmQuestions.deps.json
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\AlgorithmQuestions\bin\Debug\net7.0\AlgorithmQuestions.runtimeconfig.json
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\AlgorithmQuestions\bin\Debug\net7.0\AlgorithmQuestions.dll
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\AlgorithmQuestions\bin\Debug\net7.0\AlgorithmQuestions.pdb
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\AlgorithmQuestions\obj\Debug\net7.0\AlgorithmQuestions.csproj.AssemblyReference.cache
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\AlgorithmQuestions\obj\Debug\net7.0\AlgorithmQuestions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\AlgorithmQuestions\obj\Debug\net7.0\AlgorithmQuestions.AssemblyInfoInputs.cache
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\AlgorithmQuestions\obj\Debug\net7.0\AlgorithmQuestions.AssemblyInfo.cs
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\AlgorithmQuestions\obj\Debug\net7.0\AlgorithmQuestions.csproj.CoreCompileInputs.cache
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\AlgorithmQuestions\obj\Debug\net7.0\AlgorithmQuestions.dll
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\AlgorithmQuestions\obj\Debug\net7.0\refint\AlgorithmQuestions.dll
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\AlgorithmQuestions\obj\Debug\net7.0\AlgorithmQuestions.pdb
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\AlgorithmQuestions\obj\Debug\net7.0\AlgorithmQuestions.genruntimeconfig.cache
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\AlgorithmQuestions\obj\Debug\net7.0\ref\AlgorithmQuestions.dll
